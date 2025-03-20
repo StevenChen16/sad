@@ -1,0 +1,10 @@
+**/*.pyc
+
+runs/
+**/runs/
+
+datasets/
+**/datasets/
+
+coco.yaml
+coco8.yaml
